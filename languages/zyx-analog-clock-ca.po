@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZYX Classical Circular Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-28 02:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: We Web Warlocks <we@web-warlocks-watch.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext\n"
+"X-Poedit-Basepath: E:\\Dones\\devblog\\wp-content\\plugins\\zyx-analog-clock\n"
+"X-Poedit-SearchPath-0: E:\\Dones\\devblog\\wp-content\\plugins\\zyx-analog-clock\n"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:6
+msgid "Simple and configurable Flash clock"
+msgstr "Un rellotge en Flash senzill i configurable"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:7
+msgid "Clock"
+msgstr "Rellotge"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:15
+msgid "ZYX Analog Clock"
+msgstr "ZYX Rellotge analògic"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:94
+msgid "Main settings"
+msgstr "Ajustos principals"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:95
+msgid "Title for the widget"
+msgstr "Títol per al fòtil"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:96
+msgid "Title"
+msgstr "Títol"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:99
+msgid "Width of the widget"
+msgstr "Ample del fòtil"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:100
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:125
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:148
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:171
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:195
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:215
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:242
+msgid "Width"
+msgstr "Ample"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:102
+msgid "Height of the widget"
+msgstr "Alçada del fòtil"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:103
+msgid "Height"
+msgstr "Alçada"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:106
+msgid "Number of hours for complete round of the main dial (normally 12)"
+msgstr "Número d'hores per volta complerta de l'agulla principal (normalment 12)"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:107
+msgid "Hours/cycle"
+msgstr "Hores/cicle"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:114
+msgid "Hour dial settings"
+msgstr "Ajustos de l'agulla horària"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:115
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:139
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:162
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:185
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:205
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:225
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:235
+msgid "Color (hex)"
+msgstr "Color (hexadecimal)"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:118
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:142
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:165
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:188
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:208
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:228
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:238
+msgid "Opacity (0-100)"
+msgstr "Opacitat (0-100)"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:122
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:145
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:168
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:192
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:212
+msgid "Length"
+msgstr "Llarg"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:129
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:152
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:175
+msgid "Type"
+msgstr "Tipus"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:131
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:154
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:177
+msgid "Triangular"
+msgstr "Triangular"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:132
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:155
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:178
+msgid "Straight"
+msgstr "Recta"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:138
+msgid "Minute dial settings"
+msgstr "Ajustos de l'agulla minutera"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:161
+msgid "Second dial settings"
+msgstr "Ajustos de l'agulla dels segons"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:184
+msgid "Primary Mark settings"
+msgstr "Ajustos de les marques primàries"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:198
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:218
+msgid "Number"
+msgstr "Número"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:204
+msgid "Secondary Mark settings"
+msgstr "Ajustos de les marques secundàries"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:224
+msgid "Sphere settings"
+msgstr "Ajustos de l'esfera"
+
+#: E:\Dones\devblog\wp-content\plugins\zyx-analog-clock/includes/widget.php:234
+msgid "Outline settings"
+msgstr "Ajustos de la vora"
+
